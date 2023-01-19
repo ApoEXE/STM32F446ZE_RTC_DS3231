@@ -33,14 +33,7 @@
 /* USER CODE BEGIN PD */
 //ADXL345
 #define DS3231 0xD0
-#define PWR_CTL 0x2D
-#define MEA_MODE 0x08
-#define DATAX0 0x32
-#define DATAX1 0x33
-#define DATAY0 0x34
-#define DATAY1 0x35
-#define DATAZ0 0x36
-#define DATAZ1 0x37
+
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
